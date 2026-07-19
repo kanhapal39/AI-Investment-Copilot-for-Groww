@@ -365,7 +365,8 @@ Quick actions:
 
 # 15. AI Architecture (High Level)
 
-!image.png
+<img width="2720" height="2960" alt="groww_ai_copilot_architecture" src="https://github.com/user-attachments/assets/84af09a6-95f0-46ba-a19d-d1c08bb0948f" />
+
 
 # 16. Risks & Mitigation
 
