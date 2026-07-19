@@ -337,7 +337,8 @@ AI must explain:
 
 # 13. User Flow
 
-!image.png
+<img width="2720" height="2504" alt="groww_ai_copilot_user_flow" src="https://github.com/user-attachments/assets/044b09ba-c467-4dcf-aeed-0deae96f2cf9" />
+
 
 # 14. UX Requirements
 
