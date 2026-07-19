@@ -8,6 +8,8 @@ One of the primary reasons is a lack of financial knowledge and unfamiliarity wi
 
 To bridge this activation gap, I propose introducing an **AI Investment Copilot**. The feature would act as a personalized financial assistant that simplifies complex investment concepts, answers users' questions in plain language, provides portfolio and goal-based guidance, and builds confidence throughout the investing journey. By reducing confusion and increasing trust, the AI Copilot can help convert registered users into active investors while improving engagement and long-term retention.
 
+Prototype link: https://ai-investment-copilot-for-groww.lovable.app/
+
 # 1. Document Information
 
 | Field | Details |
